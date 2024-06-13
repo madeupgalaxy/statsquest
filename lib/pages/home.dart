@@ -27,7 +27,6 @@ class Homepage extends StatelessWidget {
           decoration: BoxDecoration(
               color: Color(0xffF7F8F8),
               borderRadius: BorderRadius.circular(10)),
-          child: SvgPicture.asset('assets/icons/Arrow.svg'),
         ),
       ),
     );
